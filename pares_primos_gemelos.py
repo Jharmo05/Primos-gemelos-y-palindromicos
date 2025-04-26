@@ -7,4 +7,3 @@ def encontrar_pares_primos_gemelos(limite):
         if es_primo(numero) and es_primo(numero + 2):
             pares_gemelos.append((numero, numero + 2))
     return pares_gemelos
-
