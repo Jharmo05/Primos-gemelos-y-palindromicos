@@ -32,5 +32,3 @@ Menu:
 
 def mostrar_menu():
     print(menu)
-
-
